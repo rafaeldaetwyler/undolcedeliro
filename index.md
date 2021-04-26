@@ -1,37 +1,47 @@
-## Welcome to GitHub Pages
+## Vorstellungen
 
-You can use the [editor on GitHub](https://github.com/rafaeldaetwyler/undolcedeliro/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+29\. Mai 2021, 19.30  
+Kosmos, Hochschule Luzern – Musik  
+Arsenalstrasse 28a, 6010 Kriens  
+freier Eintritt
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+5\. Juni 2021, 19.30  
+Kirchgemeindehaus Linsebühl  
+Flurhofstrasse 3, 9000 St. Gallen  
+Eintritt:	Erwachsene 20.- / Ermässigt 10.-
 
-### Markdown
+*Sänger\*innen*  
+Aline Dätwyler  
+Olivia Mariscotti  
+Tom Muster  
+Elias Winzeler
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+*Regie*  
+Kathrin Elmiger
 
-```markdown
-Syntax highlighted code block
+*Klavier*  
+Sandra Hamburger
 
-# Header 1
-## Header 2
-### Header 3
+*Produktionsleitung*  
+Aline Dätwyler
 
-- Bulleted
-- List
+## Reservation 
+Für die Vorstellung in St. Gallen empfehlen wir eine Reservation unter info@undolcedeliro.ch  
+Für die Vorstellung in Luzern ist keine Reservation möglich.
 
-1. Numbered
-2. List
+## Covid-19
+Derzeit gehen wir davon aus, dass beide Vorstellungen mit maximal 50 Besucher\*innen stattfinden können. Es gilt eine Maskenpflicht. Bei Anpassungen der Massnahmen finden Sie auf dieser Website aktuelle Informationen.
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rafaeldaetwyler/undolcedeliro/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+## Unterstützt durch:
+E. Fritz und Yvonne Hoffmann-Stiftung  
+Lienhard Stiftung  
+Metrohm Stiftung  
+Schüller Stiftung  
+Hans und Wilma Stutz Stiftung  
+Josef Müller Stiftung Muri  
+TW Stiftung zugunsten von kulturellen und sozialen Institutionen  
+Mary und Max Steinmann-Stiftung des Rotary Clubs St. Gallen  
+Arnold Billwiller Stiftung  
+Stadt St. Gallen Kulturförderung  
+Computechnic AG  
+Hächler + Partner AG
