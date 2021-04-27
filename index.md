@@ -26,7 +26,7 @@ Sandra Hamburger
 Aline Dätwyler
 
 ## Reservation 
-Für die Vorstellung in St. Gallen empfehlen wir eine Reservation unter info@undolcedeliro.ch  
+Für die Vorstellung in St. Gallen empfehlen wir eine Reservation unter [info@undolcedeliro.ch](mailto:info@undolcedeliro.ch)  
 Für die Vorstellung in Luzern ist keine Reservation möglich.
 
 ## Covid-19
