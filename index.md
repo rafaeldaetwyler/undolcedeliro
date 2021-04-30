@@ -47,6 +47,7 @@ Für die Vorstellung in Luzern ist keine Reservation möglich.
       <button type="submit" class="btn btn-primary">Abschicken</button>
     </form>
   </div>
+  <div id="error"></div>
 </div>
 
 ## Covid-19

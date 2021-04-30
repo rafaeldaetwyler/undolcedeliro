@@ -20,7 +20,7 @@ $(document).ready(function () {
           '<div class="alert alert-success">Ihre Nachricht wurde abgeschickt!</div>'
         );
       } else {
-        $("#formular").append(
+        $("#error").html(
           '<div class="alert alert-danger">Ein Fehler ist aufgetreten!</div>'
         );
       }
