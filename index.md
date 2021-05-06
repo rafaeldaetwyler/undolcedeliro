@@ -44,6 +44,11 @@ Für die Vorstellung in Luzern ist keine Reservation möglich.
         <label for="message" class="form-label">Ihre Nachricht</label>
         <textarea class="form-control" id="message" name="message" rows="4" required></textarea>
       </div>
+      <div class="g-recaptcha"
+        data-sitekey="6LfDccgaAAAAAItaONEHV-6O0JbLZT14Gx4jOV10"
+        data-callback="onSubmit"
+        data-size="invisible">
+      </div>
       <button type="submit" class="btn btn-primary">Abschicken</button>
     </form>
   </div>
