@@ -22,6 +22,7 @@ function onSubmit() {
       $("#error").html(
         '<div class="alert alert-danger">Ein Fehler ist aufgetreten!</div>'
       );
+      grecaptcha.reset();
     }
     
     $("#loading-bar").hide();
