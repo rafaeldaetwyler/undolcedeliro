@@ -53,6 +53,9 @@ Aufgrund von Covid-19 ist die Anzahl der Plätze beschränkt. Deshalb ist für b
   </div>
   <div id="error"></div>
 </div>
+<div id="loading-bar" style="display:none; text-align: center; margin: 30px 0;">
+  <img src="img/loading.gif">
+</div>
 
 ## Covid-19
 Derzeit gehen wir davon aus, dass beide Vorstellungen mit einer eingeschränkten Anzahl an Besucher\*innen stattfinden können. Zur Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen werden die Kontaktdaten des Publikums erhoben. Die Kontaktdaten werden 14 Tage nach der jeweiligen Vorstellung vernichtet. Es gilt zudem eine Maskenpflicht. Bei Anpassungen der Massnahmen finden Sie auf dieser Website aktuelle Informationen.

@@ -23,6 +23,9 @@ function onSubmit() {
         '<div class="alert alert-danger">Ein Fehler ist aufgetreten!</div>'
       );
     }
+    
+    $("#loading-bar").hide();
+    $("#formular").show();
       
   });
 }
@@ -30,6 +33,8 @@ function onSubmit() {
 $(document).ready(function () {
   $("#reservationsformular").submit(function (event) {
     event.preventDefault();
+    $("#formular").hide();
+    $("#loading-bar").show();
     grecaptcha.execute();
   });
 });
