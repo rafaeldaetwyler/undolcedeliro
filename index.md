@@ -10,6 +10,9 @@ Kirchgemeindehaus Linsebühl
 Flurhofstrasse 3, 9000 St. Gallen  
 Eintritt:	Erwachsene 20.- / Ermässigt 10.-
 
+Die Vorstellung vom 29. Mai wird zusätzlich als Live-Stream übertragen:  
+[https://youtu.be/KiK7uz8Am_Y](https://youtu.be/KiK7uz8Am_Y)
+
 *Sänger\*innen*  
 Aline Dätwyler  
 Olivia Mariscotti  
@@ -22,12 +25,8 @@ Kathrin Elmiger
 *Klavier*  
 Sandra Hamburger
 
-*Produktionsleitung*  
-Aline Dätwyler
-
 ## Reservation 
-Für die Vorstellung in St. Gallen empfehlen wir eine Reservation mittels unten stehendem Formular.  
-Für die Vorstellung in Luzern ist keine Reservation möglich.
+Aufgrund von Covid-19 ist die Anzahl der Plätze beschränkt. Deshalb ist für beide Vorstellungen eine Reservation notwendig. Verwenden Sie dazu bitte das untenstehende Formular.
 
 <div id="formular">
   <div style="margin-bottom: 1rem">
@@ -56,9 +55,10 @@ Für die Vorstellung in Luzern ist keine Reservation möglich.
 </div>
 
 ## Covid-19
-Derzeit gehen wir davon aus, dass beide Vorstellungen mit maximal 50 Besucher\*innen stattfinden können. Es gilt eine Maskenpflicht. Bei Anpassungen der Massnahmen finden Sie auf dieser Website aktuelle Informationen.
+Derzeit gehen wir davon aus, dass beide Vorstellungen mit einer eingeschränkten Anzahl an Besucher\*innen stattfinden können. Zur Identifizierung und Benachrichtigung ansteckungsverdächtiger Personen werden die Kontaktdaten des Publikums erhoben. Die Kontaktdaten werden 14 Tage nach der jeweiligen Vorstellung vernichtet. Es gilt zudem eine Maskenpflicht. Bei Anpassungen der Massnahmen finden Sie auf dieser Website aktuelle Informationen.
 
 ## Unterstützt durch:
+Susanne und Martin Knechtli-Kradolfer-Stiftung  
 E. Fritz und Yvonne Hoffmann-Stiftung  
 Lienhard Stiftung  
 Metrohm Stiftung  
