@@ -10,6 +10,8 @@ Kirchgemeindehaus Linsebühl
 Flurhofstrasse 3, 9000 St. Gallen  
 Eintritt:	Erwachsene 20.- / Ermässigt 10.-
 
+**Bei der Vorstellung in Luzern sind bereits alle Plätze besetzt!**
+
 Die Vorstellung vom 29. Mai wird zusätzlich als Live-Stream übertragen:  
 [https://youtu.be/KiK7uz8Am_Y](https://youtu.be/KiK7uz8Am_Y)
 
