@@ -10,8 +10,6 @@ Kirchgemeindehaus Linsebühl
 Flurhofstrasse 3, 9000 St. Gallen  
 Eintritt:	Erwachsene 20.- / Ermässigt 10.-
 
-**Bei der Vorstellung in Luzern sind bereits alle Plätze besetzt!**
-
 Die Vorstellung vom 29. Mai wird zusätzlich als Live-Stream übertragen:  
 [https://youtu.be/KiK7uz8Am_Y](https://youtu.be/KiK7uz8Am_Y)
 
@@ -28,7 +26,7 @@ Kathrin Elmiger
 Sandra Hamburger
 
 ## Reservation 
-Aufgrund von Covid-19 ist die Anzahl der Plätze beschränkt. Deshalb ist für beide Vorstellungen eine Reservation notwendig. Verwenden Sie dazu bitte das untenstehende Formular.
+Aufgrund von Covid-19 ist die Anzahl der Plätze beschränkt und eine Reservation notwendig. Die Vorstellung in Luzern ist bereits ausgebucht, in St. Gallen sind noch Plätze verfügbar. Verwenden Sie zur Reservation bitte das untenstehende Formular und geben Sie, falls Sie für mehrere Personen reservieren, alle Vor- und Nachnamen an.
 
 <div id="formular">
   <div style="margin-bottom: 1rem">
@@ -72,6 +70,7 @@ Hans und Wilma Stutz Stiftung
 Josef Müller Stiftung Muri  
 TW Stiftung zugunsten von kulturellen und sozialen Institutionen  
 Mary und Max Steinmann-Stiftung des Rotary Clubs St. Gallen  
+Ostschweizer Stiftung für Musik und Theater  
 Arnold Billwiller Stiftung  
 Stadt St. Gallen Kulturförderung  
 Computechnic AG  
