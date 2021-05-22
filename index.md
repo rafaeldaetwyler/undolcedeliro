@@ -53,7 +53,7 @@ Aufgrund von Covid-19 ist die Anzahl der Plätze beschränkt und eine Reservatio
   </div>
   <div id="error"></div>
 </div>
-<div id="loading-bar" style="display:none; text-align: center; margin: 30px 0;">
+<div id="loading-bar">
   <img src="img/loading.gif">
 </div>
 
@@ -75,3 +75,7 @@ Arnold Billwiller Stiftung
 Stadt St. Gallen Kulturförderung  
 Computechnic AG  
 Hächler + Partner AG
+
+<div id="logos">
+  <img src="img/logos.jpg">
+</div>

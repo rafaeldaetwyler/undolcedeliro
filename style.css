@@ -1,0 +1,10 @@
+#loading-bar {
+    display: none;
+    text-align: center;
+    margin: 30px 0;
+}
+
+#logos img {
+    width: 100%;
+    max-width: 512px;
+}
