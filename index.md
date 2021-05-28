@@ -13,6 +13,8 @@ Eintritt:	Erwachsene 20.- / Ermässigt 10.-
 Die Vorstellung vom 29. Mai wird zusätzlich als Live-Stream übertragen:  
 [https://youtu.be/KiK7uz8Am_Y](https://youtu.be/KiK7uz8Am_Y)
 
+Das Programmheft kann <a href="programmheft.pdf" download>hier</a> heruntergeladen werden.
+
 *Sänger\*innen*  
 Aline Dätwyler  
 Olivia Mariscotti  
