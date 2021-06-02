@@ -1,3 +1,5 @@
+<p style="color: red; font-weight: bold;">Achtung: Zwischen Di, 1. Juni, 18:00 Uhr und Mi, 2. Juni, 22:00 Uhr durch das Formular getätigte Reservationen wurden nicht übermittelt. Bitte füllen Sie in diesem Fall das Formular erneut aus.</p>
+
 ## Vorstellungen
 
 29\. Mai 2021, 19.30  
